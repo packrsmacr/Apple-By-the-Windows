@@ -2,7 +2,7 @@ In the agile process, before we start building/creating code, we want to make su
 What is an Initiative?  An initiative is a request for a new project with the following summary detail.  Once an initiative is created, smaller units of work can be created, called Features or Epics.  Let’s create an initiative for each group and then start thinking about features.
 Create Initiative:
 1.	Description.  1-2 paragraph description of what we want to create and why.
-
+app.  financial history.  charts where money was spent, receipts. 
 
 
 2.	Requirements.  Before a project begins.  We want to have clarity on what functionality is needed.  Create bullet points of all requirements.  This is not the how, but what we want to have at the end of the project
