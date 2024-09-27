@@ -3,24 +3,48 @@ What is an Initiative?  An initiative is a request for a new project with the fo
 Create Initiative:
 1.	Description.  1-2 paragraph description of what we want to create and why.
 app.  financial history.  charts where money was spent, receipts. 
+Configurable alerts based on different spending critera.  Such as balance exceeds X amount.
 
 
 2.	Requirements.  Before a project begins.  We want to have clarity on what functionality is needed.  Create bullet points of all requirements.  This is not the how, but what we want to have at the end of the project
 a.	Example.  Ability for user to know how much money they spent in the past 12 months.
+<<<PASTE IN Already completed document>>
+
 
 3.	Success criteria.  At the end of the project, what does success look like.  What needs to be completed to consider the project a success.  This is important to establish up front to keep the project inline(prevent scope creep).  And we can look at this at the end to make sure we checked all of the boxes.  Create bullet points for success criteria.
+Customer can login successfully to the applicatoin
+Customer can see all spending history in graphical form
+Finacial information is accurately displayed
+Data presented is consisent
+Data is visible to the customer
+Presentation shows new features compared to existing
+Displaying correct information when customer clicks on buttons
+User Friendly application
+
 What is not in scope:
+Controlling/restricting customer from spending
+Double authentication, no third party authentication
+
+
 Create Feature/Epic/user stories:
 4.	What are the different units of work we can create for this initiative
+-Design work
+-Front end
+-Service Layer/Logic
+-Backend/database
 
 5.	Build.  What are we planning to build and how?  Are we creating an actual program.  Or going to mimic code in an excel/word/power point document.  We should understand at least in general what is needed.  Create an outline of what we need to successfully build the project, use bullet points for now.
 
 
 6.	Test.  Write test cases of what we need to check to make sure the build is working as expected and does not have any bugs.  Start with bullet points now, we can create details of each test at a later session.
+
+
 7.	
 
 To Do’s:
-
+-Lets add the word doc to the git hub
+-Think of where we want to focus coding efforts
+-
 
 https://codepen.io/
 
